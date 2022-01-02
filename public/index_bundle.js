@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("div");e.innerHTML="good",document.getElementById("app").appendChild(e)})();
